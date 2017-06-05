@@ -1,6 +1,6 @@
 markdown: kramdown
-title: GSA Privacy Program
-description: How to plan for and manage privacy risk at GSA
+title: Privacy Program
+description: Helping you plan for and mitigate privacy risks
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -15,11 +15,6 @@ kramdown:
 
 sass:
   style: :compressed
-
-# Author/Organization info to be displayed in the templates
-author:
-  name: GSA Privacy Program
-  url: https://gsa.gov
 
 github:
   organization: 18F
@@ -50,7 +45,7 @@ defaults:
 navigation:
 
 repos:
-- name: GSA Privacy Program
+- name: Privacy Program
   description: Main repository
   url: https://github.com/18F/insite-privacy
 
